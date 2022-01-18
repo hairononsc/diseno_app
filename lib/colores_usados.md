@@ -1,0 +1,3 @@
+# Propiedades usadas
+  accentColor
+  primaryColorLight
